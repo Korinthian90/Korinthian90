@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory (Home Lab)](PROJECT URL HERE)
+- [Active Directory (Home Lab)](https://github.com/Korinthian90/ActiveDirectoryHomeLab)
 - [Security Information and Event Management (SIEM Home Lab)](PROJECT URL HERE)
 
 <h2>📺 YouTube Projects Vlogging</h2>
