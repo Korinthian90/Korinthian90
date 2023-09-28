@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [YouTube](https://www.youtube.com/@SashaMitevski)
+- [Blog](https://blog.circledpath.com/)
 - [LinkedIn](https://www.linkedin.com/in/sashamusap/)
 
 <!--
