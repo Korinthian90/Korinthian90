@@ -5,7 +5,7 @@
 - [Active Directory (Home Lab)](https://github.com/Korinthian90/ActiveDirectoryHomeLab)
 - [Security Information and Event Management (SIEM Home Lab)](PROJECT URL HERE)
 
-<h3>📺 YouTube Projects Vlogging</h3>
+<h3>📺 YouTube Projects Vlogging (WIP)</h3>
 
 - [Tutorial: Active Directory Setup](https://www.youtube.com/@SashaMitevski/URLHERE)
 
