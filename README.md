@@ -20,7 +20,7 @@
 - Programming / DevOps / WebDev (Current focus in Python, Next.js)
 - Unreal Engine 5
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 - [The Circled Path - Blog](https://blog.circledpath.com/)
 - [YouTube](https://www.youtube.com/@SashaMitevski/)
