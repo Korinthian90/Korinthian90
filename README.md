@@ -1,22 +1,28 @@
 <h1>{Hello World}, I'm Sasha! <br/><a href="https://github.com/Korinthian90">Programming and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/sashamusap/">IT Professional</a></h1>
 
-<h2>👨‍💻 IT, Programming, and Cybersecurity Projects:</h2>
+<h3>👨‍💻 Programming, Cybersecurity, and IT-related Projects:</h3>
 
 - [Active Directory (Home Lab)](https://github.com/Korinthian90/ActiveDirectoryHomeLab)
 - [Security Information and Event Management (SIEM Home Lab)](PROJECT URL HERE)
 
-<h2>📺 YouTube Projects Vlogging</h2>
+<h3>📺 YouTube Projects Vlogging</h3>
 
 - [Tutorial: Active Directory Setup](https://www.youtube.com/@SashaMitevski/URLHERE)
 
-<h2>📄 Certifications</h2>
+<h3>📄 Certifications</h3>
 
 - [Jamf Certified Associate (100)](https://training.jamf.com/jamf-certified-associate-exam-english-en)
 - [Jamf Certified Tech (200)](https://account.jamf.com/training-courses/certificate/DJJ7wbHFYgI4-f7Zq_OHrQ)
 
+<h3>🌱 Currently Studying</h3>
+
+- Cybersecurity / InfoSec
+- Programming / DevOps / WebDev (Current focus in Python, Next.js)
+- Unreal Engine 5
+
 <h2> 🤳 Connect with me:</h2>
 
-- [Blog](https://blog.circledpath.com/)
+- [The Circled Path - Blog](https://blog.circledpath.com/)
 - [YouTube](https://www.youtube.com/@SashaMitevski/)
 - [LinkedIn](https://www.linkedin.com/in/sashamusap/)
 
