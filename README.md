@@ -1,6 +1,6 @@
 <h1>{Hello World}, I'm Sasha! <br/><a href="https://github.com/Korinthian90">Programming and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/sashamusap/">IT Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT, Programming, and Cybersecurity Projects:</h2>
 
 - [Active Directory (Home Lab)](https://github.com/Korinthian90/ActiveDirectoryHomeLab)
 - [Security Information and Event Management (SIEM Home Lab)](PROJECT URL HERE)
