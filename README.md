@@ -13,12 +13,13 @@
 
 - [Jamf Certified Associate (100)](https://training.jamf.com/jamf-certified-associate-exam-english-en)
 - [Jamf Certified Tech (200)](https://account.jamf.com/training-courses/certificate/DJJ7wbHFYgI4-f7Zq_OHrQ)
+- [Scientific Computing with Python](https://freecodecamp.org/certification/Korinthian/scientific-computing-with-python-v7 )
 
 <h3>🌱 Currently Studying</h3>
 
 - Cybersecurity / InfoSec
-- Programming / DevOps / WebDev (Current focus in Python, Next.js)
-- Unreal Engine 5
+- Programming / DevOps / WebDev (Current focus in Python, C#)
+- Unity game development
 
 <h3> 🤳 Connect with me:</h3>
 
